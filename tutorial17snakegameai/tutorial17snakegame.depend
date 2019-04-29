@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1556305925 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial17snakegame\main.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<string>
+	<conio.h>
+
+1556314147 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial17snakegameai\main.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<string>
+	<conio.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	"AiBrain.h"
+
+1556308147 c:\users\cubit32\desktop\coding\cplusplus\tutorial17snakegameai\test.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<string>
+	<conio.h>
+	<time.h>
+
+1556316782 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial17snakegameai\aibrain.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<string>
+	<conio.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	"AiBrain.h"
+
+1556316651 c:\users\cubit32\desktop\coding\cplusplus\tutorial17snakegameai\aibrain.h
+

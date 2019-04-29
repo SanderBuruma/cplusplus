@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556209181 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial2\mother.cpp
+	"Mother.h"
+	"Daughter.h"
+	<iostream>
+
+1556209149 c:\users\cubit32\desktop\coding\cplusplus\tutorial2\mother.h
+
+1556209253 c:\users\cubit32\desktop\coding\cplusplus\tutorial2\daughter.h
+
+1556209028 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial2\main.cpp
+	"Mother.h"
+	"Daughter.h"
+	<iostream>
+

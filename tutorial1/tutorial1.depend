@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1556208389 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial1\main.cpp
+	<iostream>
+	"Sally.h"
+
+1556208378 c:\users\cubit32\desktop\coding\cplusplus\tutorial1\sally.h
+
+1556205070 c:\users\cubit32\desktop\coding\cplusplus\tutorial1\test.h
+
+1556208270 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial1\sally.cpp
+	"Sally.h"
+	<iostream>
+
+1556205187 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial1\test.cpp
+	"test.h"
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556212234 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial11files\main.cpp
+	<iostream>
+	<fstream>
+

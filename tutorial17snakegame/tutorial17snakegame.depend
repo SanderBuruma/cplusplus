@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556305925 source:c:\users\cubit32\desktop\coding\cplusplus\tutorial17snakegame\main.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<string>
+	<conio.h>
+
